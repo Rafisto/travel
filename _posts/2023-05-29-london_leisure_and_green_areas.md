@@ -31,11 +31,11 @@ After visiting The Imperial College and The Science Museum I fortunately found a
 
 Imagine you had a problem with something in your country: the politics, high taxation of the poor, or how the government is unable to resolve the immigration crisis. Speaker's Corner offered every attendee a right to speak publicly about *almost* everything - as long as you have something to stand on. The photo below shows a man standing atop the ladder, claiming his right to challenge his opinions.
 
-![Man standing on the speakers corner](/assets/images/london_leisure_and_green_areas/speakers_corner.png)
+![Man standing on the speakers corner](/assets/images/london_leisure_and_green_areas/speakers_corner.jpg)
 
 #### The Prince's Gardens
 
-![The Prince's Gardens](/assets/images/london_leisure_and_green_areas/princes_gardens.png)
+![The Prince's Gardens](/assets/images/london_leisure_and_green_areas/princes_gardens.jpg)
 
 While we are waiting for my friend to join us, take a look at another precious building I've found in Mayfair. The architect had an interesting point of connecting nature with modern glass and metal, and I think he succeded in keeping it in phase with the other elevations. A more nature-oriented neighborhood by Hunderwasser can be seen in Vienna.
 
