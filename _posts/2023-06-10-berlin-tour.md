@@ -12,7 +12,7 @@ however without any tourism-related activites. To lower the costs of an overnigh
 the iconic places, while still on a budget. I took a bus and at 9 AM I had my German dream come true. 
 I could finally test my german speaking and comprehension abilities.
 
-![Spree canal. A barge near the pier. Nature on the canal bank.](/assets/images/berlin_tour/berliner_dom_humboldt_forum.jpg)
+![Spree canal. A barge near the pier. Nature on the canal bank.](/assets/images/berlin_tour/spree_canal.jpg)
 
 ### Berlin
 
@@ -55,8 +55,6 @@ Turning head to the right of this frame, shows the road leading to the Potsdamer
 
 ### The Museum Island
 
-When the Prussian revolution had taken its toll on the previous political system, the countries west of Germany were not satisfied with the change.
-They had first replaced the elites and then started building a new foundation for the german culture. A direct architectural result of this deep approach
-has to be seen
+When the Prussian revolution had taken its toll on the previous political system, the countries west of Germany were not satisfied with the change. The Prussians had first replaced the elites for their own benefit and then, to curry favour with the West, they started building a new foundation for the german culture. I saw a direct architectural result of this deep approach - The Museum Island, which houses the most important museums in Berlin. The Berlin Cathedral is also located on the island. The Humboldt Forum is a new building, which had been built on the site of the former Berlin City Palace. The palace was destroyed during the war and the East German goverment decided to demolish the ruins. The new building is a gallery of non-european ar, housing the Ethnological Museum and the Museum of Asian Art. The building has been finished in 2020.
 
 ![Museum Island - Berlin Cathedral and The Humboldt Forum Gallery](/assets/images/berlin_tour/berliner_dom_humboldt_forum.jpg)
