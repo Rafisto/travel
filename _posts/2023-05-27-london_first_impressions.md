@@ -5,8 +5,6 @@ date:   2023-05-27 13:00:00 +0100
 categories: london impressions
 ---
 
-May 2023
-
 ### Background
 
 The whole trip was without any doubt a bit wild. It was a day after high school finals when I received a message from my good friend. We started chatting and soon concluded that I strongly needed a break from studying. There was this visible urge to somehow distance myself from everything, life included. What's a better opportunity to rethink one's purpose than by traveling and experiencing another culture?

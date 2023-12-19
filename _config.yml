@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RW Travel Blog
+title: Travel Blog by Rafał Włodarczyk
 email: rafal.piotr.wlodarczyk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Join me in exploring the wonders of Europe.
@@ -32,6 +32,9 @@ minima:
 
 plugins:
   - jekyll-feed
+
+exclude:
+  - README.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
