@@ -2,7 +2,7 @@
 layout: post
 title:  "London - First Impressions"
 date:   2023-05-27 13:00:00 +0100
-categories: london impressions
+categories: uk london
 ---
 
 ### Background

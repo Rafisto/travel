@@ -2,7 +2,7 @@
 layout: post
 title:  "London - Leisure and Green Areas"
 date:   2023-05-29 13:00:00 +0100
-categories: london
+categories: uk london
 ---
 
 London is sensibly demanding, and after spending a few days there I began to notice how difficult it is to keep up with my typical traveling pace. It's not like the city one day became boring, but having the entire bucket list checked out does not help with finding new activities quickly. One of the key aspects of travel is to know when to rest, so I decided to spend an entire day on leisure and entertainment. What better day to observe Londoners resting than on Sunday?

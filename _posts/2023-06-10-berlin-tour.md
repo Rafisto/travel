@@ -2,7 +2,7 @@
 layout: post
 title:  "Berlin - One day tour"
 date:   2023-06-10 13:00:00 +0100
-categories: berlin
+categories: germany berlin
 ---
 
 ### Background
