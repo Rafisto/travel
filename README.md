@@ -1,3 +1,9 @@
+## Run Jekyll locally
+
+```bash
+bundle exec jekyll serve
+```
+
 ## Autocompress images for blogposts
 
 Compress blogpost images with `jpegoptim` to reduce their size by `80%` without significant quality loss:
