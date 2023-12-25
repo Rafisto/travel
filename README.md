@@ -1,7 +1,17 @@
+Greetings, Fellow Travelers!<br/>
+Welcome to my corner of the internet!
+
 ## Run Jekyll locally
 
 ```bash
+bundle install
 bundle exec jekyll serve
+```
+
+## Auto reload
+
+```bash
+bundle exec guard
 ```
 
 ## Autocompress images for blogposts
